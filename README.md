@@ -1,4 +1,7 @@
-Simple React project to learn a class component usage vs a functional one
+Simple React project to learn a class component usage vs a functional one.
+
+
+APIs used: https://jsonplaceholder.typicode.com/users and https://robohash.org/
 
 https://user-images.githubusercontent.com/81769855/137650202-84949e8a-5806-4f66-b02a-c49f51c09444.mov
 
